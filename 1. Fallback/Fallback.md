@@ -1,18 +1,12 @@
-[Ethernaut CTF - Fallback (Level 1)](https://www.youtube.com/watch?v=i-8cCDajPDQ&t=460s)
+My Notes & Screenshots
+https://alexdphan.notion.site/1-Fallback-00ae9544aaed4bd2b3ccd1680ce63d1e
 
-![Screen Shot 2022-05-09 at 9.41.03 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0faae08d-3d9f-47ad-a586-f9b7571cb8ad/Screen_Shot_2022-05-09_at_9.41.03_PM.png)
-
-Remote Procedure Call Process Below used to interact with the server console
-
-![Screen Shot 2022-05-09 at 9.41.18 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/932ab22b-3251-479b-a8df-832f9710ee92/Screen_Shot_2022-05-09_at_9.41.18_PM.png)
-
-![Screen Shot 2022-05-09 at 9.41.49 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c0f2c875-8293-445d-9625-c5f09f5747f4/Screen_Shot_2022-05-09_at_9.41.49_PM.png)
+Additional Resources
 
 ***Fallback Function (Eth Docs) -***
 
 [***https://docs.soliditylang.org/en/late...***](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGtKMjFNWGV4OUdLRnk2anNPMWdHRThtYTdpUXxBQ3Jtc0trQ1V5d3N0emVLUHlZMzlVZWlHZ3lPdVhtUDQzRHhuN0RZLWVWRmhjS0M1cC05dGFTQUlVa3R5ekUwMkJNdFhuS09MNUlMa2QwQ0VXR3M3VmxxYm1PRXRmSFotazQ5MGs2cks4aHQxa1U5UG1qby1ZRQ&q=https%3A%2F%2Fdocs.soliditylang.org%2Fen%2Flatest%2Fcontracts.html%3Fhighlight%3Dreceive%23fallback-function&v=i-8cCDajPDQ)
 
-Additional Resources
 Ethernaut CTF -
 
 [https://ethernaut.openzeppelin.com/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3lhdXprSG92eGI2bzZkc0l5Y2RNbGxnSTNxZ3xBQ3Jtc0ttUnkzbU54WUpXcGJEdkp6YUFFRkx0WkZEelhXQ1V0Nmt3S3kwZHp3a0V3SW9yeXdiWWZMa3ZFRThNUHdzUURJZGVoNW1wZ3VDZXR2b1NNQVNaNjJzWElHZFE3N3RtNFpmd2hKcjNCb0FwLUtlUzViWQ&q=https%3A%2F%2Fethernaut.openzeppelin.com%2F&v=i-8cCDajPDQ)
@@ -52,3 +46,5 @@ Receive Function (Eth Docs) -
 Receive Function (Stack Exchange) -
 
 [https://ethereum.stackexchange.com/qu...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEdBRHNIVFJ6Y1FzUTVnR2U1d2E1SUUycDNud3xBQ3Jtc0tseG5vTUwzb253STFmWVhZaGFpU1UyX180WF9LLVpZT1ppY3ZOb21tUWIxbGpIZ0YzMGx5Z0o0MVYtYm1EVXhaeVM2TENnQTE0QXVyalZMaURBOFo1Vk5rdTczWW5Qa29hMjhJVVgycWVRVHVNMFZYRQ&q=https%3A%2F%2Fethereum.stackexchange.com%2Fquestions%2F81994%2Fwhat-is-the-receive-keyword-in-solidity&v=i-8cCDajPDQ)
+
+

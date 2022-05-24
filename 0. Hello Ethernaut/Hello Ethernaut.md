@@ -3,3 +3,5 @@
 [Ethernaut CTF - Hello Ethernaut (Level 0)](https://www.youtube.com/watch?v=MaGAVBRwvbg&t=703s)
 
 Just a quick overview of how it worked
+
+https://alexdphan.notion.site/0-Hello-Ethernaut-06bbec1d10ce4395b8e8b5b412d1d952
