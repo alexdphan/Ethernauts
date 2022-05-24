@@ -1,0 +1,54 @@
+[Ethernaut CTF - Fallback (Level 1)](https://www.youtube.com/watch?v=i-8cCDajPDQ&t=460s)
+
+![Screen Shot 2022-05-09 at 9.41.03 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0faae08d-3d9f-47ad-a586-f9b7571cb8ad/Screen_Shot_2022-05-09_at_9.41.03_PM.png)
+
+Remote Procedure Call Process Below used to interact with the server console
+
+![Screen Shot 2022-05-09 at 9.41.18 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/932ab22b-3251-479b-a8df-832f9710ee92/Screen_Shot_2022-05-09_at_9.41.18_PM.png)
+
+![Screen Shot 2022-05-09 at 9.41.49 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c0f2c875-8293-445d-9625-c5f09f5747f4/Screen_Shot_2022-05-09_at_9.41.49_PM.png)
+
+***Fallback Function (Eth Docs) -***
+
+[***https://docs.soliditylang.org/en/late...***](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGtKMjFNWGV4OUdLRnk2anNPMWdHRThtYTdpUXxBQ3Jtc0trQ1V5d3N0emVLUHlZMzlVZWlHZ3lPdVhtUDQzRHhuN0RZLWVWRmhjS0M1cC05dGFTQUlVa3R5ekUwMkJNdFhuS09MNUlMa2QwQ0VXR3M3VmxxYm1PRXRmSFotazQ5MGs2cks4aHQxa1U5UG1qby1ZRQ&q=https%3A%2F%2Fdocs.soliditylang.org%2Fen%2Flatest%2Fcontracts.html%3Fhighlight%3Dreceive%23fallback-function&v=i-8cCDajPDQ)
+
+Additional Resources
+Ethernaut CTF -
+
+[https://ethernaut.openzeppelin.com/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3lhdXprSG92eGI2bzZkc0l5Y2RNbGxnSTNxZ3xBQ3Jtc0ttUnkzbU54WUpXcGJEdkp6YUFFRkx0WkZEelhXQ1V0Nmt3S3kwZHp3a0V3SW9yeXdiWWZMa3ZFRThNUHdzUURJZGVoNW1wZ3VDZXR2b1NNQVNaNjJzWElHZFE3N3RtNFpmd2hKcjNCb0FwLUtlUzViWQ&q=https%3A%2F%2Fethernaut.openzeppelin.com%2F&v=i-8cCDajPDQ)
+
+Web3 Blockchain Developer (Ethernaut Series) -
+
+[https://youtu.be/tLMPGqRZx_M](https://www.youtube.com/watch?v=tLMPGqRZx_M&t=0s)
+
+Web3 JS Video Series -
+
+[https://youtu.be/t3wM5903ty0](https://www.youtube.com/watch?v=t3wM5903ty0&t=0s)
+
+JSON RPC (Wiki) -
+
+[https://en.wikipedia.org/wiki/JSON-RPC](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1pYWkIwZUhCWC1vQTMwYzI3X0JzSS1ad1FFUXxBQ3Jtc0tuVXQ5ekhvd0ZRNkZuNk1MSTR0VkROWEhpMjVqY2pjWHB3UW0wQ0RrbHM5cDdZOGFqd1JrS2l6WlhkQVlWbzVWdDNaamRtWUhTOHlQNjY5akxtVzdkQmV6WWVfOVBiQ01ON2pGa0I0RnBKWldCc3EwUQ&q=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJSON-RPC&v=i-8cCDajPDQ)
+
+RPC -
+
+[https://en.wikipedia.org/wiki/Remote_...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbThsRy1kbC1QUjZ1cDVCdUNmZk0wb3BRREhmQXxBQ3Jtc0tuTEo1dDBVWDBselY3c29jUlU1VGpCU1NndnVqdHJYZUlETU9rZWJyTlRtT1RhcUdMdm93Rk5uMGUzcVR0UnZZWXM4QW5MMEJKdkhxVXNXNEE0UElQRTkteDJYS0J6OEdadW5hMDdBb2hwVXJReTNDSQ&q=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FRemote_procedure_call&v=i-8cCDajPDQ)
+
+JSON RPC (Ethereum context) -
+
+[https://eth.wiki/json-rpc/API](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEdULTg3N3VWS3JBRk00UGp6NHNYbVJpcTB3Z3xBQ3Jtc0tuVXVSYlJodHZVanFreUR2QTM5aU5OMVRzckZjQ0FmTENIVmZrZndMS3VlZE5rX2QyLUFiQzAyM2IzdHFmcXFZLXF2ajlTUXdKeFoxcWJaUmgzSGdiWl8xXzhLaEJLMVdLdktjaE1YUVl2LWxiNE44aw&q=https%3A%2F%2Feth.wiki%2Fjson-rpc%2FAPI&v=i-8cCDajPDQ)
+
+Sending Transactions (Web3 JS) -
+
+[https://web3js.readthedocs.io/en/v1.2...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVFHUS1JTDVKU1dUeHh2RVdRbTVQLXlMbFBKQXxBQ3Jtc0tuajJ2NTlSd05LTUNpcDFmUU5ydjZaWlVsN2J6MjdVLXZ4dk1yQVhBakl6cU1SM2NkMDRQRXdLRG1tWmZsMl9sdUJGbFRyU0lGenBvR0FPWUhuNTZPVC1WYWtqaTNUXy1FVXp4TnBjRHdDc1hmeVdIcw&q=https%3A%2F%2Fweb3js.readthedocs.io%2Fen%2Fv1.2.0%2Fweb3-eth.html%3Fhighlight%3Dsendtransaction%23sendtransaction&v=i-8cCDajPDQ)
+
+Sending Transactions (JSON RPC API) -
+
+[https://eth.wiki/json-rpc/API#eth_sen...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbm5weUhyNWJjNFNkekQybjY3WGpCcE13dThnUXxBQ3Jtc0traG9US1AxUmlqMEZnRjdiVGdVSkdneVVXYkRUdzZwOEsxU1JzMDdzeG1XYWNIMHBySTZZNnVCNDdGRXJ6U05YM19Kd2prSzZOSElFc01kZVNCWGZXR25VWVB2VG9UemJ2OThubXRzZWctTTFYa3ZXRQ&q=https%3A%2F%2Feth.wiki%2Fjson-rpc%2FAPI%23eth_sendtransaction&v=i-8cCDajPDQ)
+
+Receive Function (Eth Docs) -
+
+[https://docs.soliditylang.org/en/late...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDNHb0dKeXZMU29aYUpwX2swa2ZuTFlfMFZrUXxBQ3Jtc0tuQWlWSFBuTmxIUXU4bHFqd25fSDBsYnYtVEdfM216c2pwQ3ppTWxES3R0enpYdC1kTi03ZlRJV3R3OXowbXppck1mMUNnMTFhRlVDMnZaX0ZTMHN2ZHN3T0tGSDV1aDJWellQdU83aEhzVUtyQWpzWQ&q=https%3A%2F%2Fdocs.soliditylang.org%2Fen%2Flatest%2Fcontracts.html%3Fhighlight%3Dreceive%23receive-ether-function&v=i-8cCDajPDQ)
+
+Receive Function (Stack Exchange) -
+
+[https://ethereum.stackexchange.com/qu...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEdBRHNIVFJ6Y1FzUTVnR2U1d2E1SUUycDNud3xBQ3Jtc0tseG5vTUwzb253STFmWVhZaGFpU1UyX180WF9LLVpZT1ppY3ZOb21tUWIxbGpIZ0YzMGx5Z0o0MVYtYm1EVXhaeVM2TENnQTE0QXVyalZMaURBOFo1Vk5rdTczWW5Qa29hMjhJVVgycWVRVHVNMFZYRQ&q=https%3A%2F%2Fethereum.stackexchange.com%2Fquestions%2F81994%2Fwhat-is-the-receive-keyword-in-solidity&v=i-8cCDajPDQ)
