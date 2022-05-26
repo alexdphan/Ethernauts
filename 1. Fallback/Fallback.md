@@ -1,7 +1,7 @@
-My Notes & Screenshots
+My Notes from Notion
 https://alexdphan.notion.site/1-Fallback-00ae9544aaed4bd2b3ccd1680ce63d1e
 
-Additional Resources
+Additional Resources:
 
 ***Fallback Function (Eth Docs) -***
 
