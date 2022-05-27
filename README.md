@@ -1,4 +1,4 @@
-Solutions, notes, and resources for OpenZeppelin Ethernaut Smart Contracts
+Solutions, notes, and resources for solving and learning OpenZeppelin Ethernaut Smart Contracts
 
 https://ethernaut.openzeppelin.com/
 
