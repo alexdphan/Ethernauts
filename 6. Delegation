@@ -1,0 +1,9 @@
+# 6. Delegation
+
+## tldr:
+- Use the higher level call() function to inherit from libraries, especially when you:
+  - i) don’t need to change contract storage
+  - ii) do not care about gas control.
+- When inheriting from a library intending to alter your contract’s storage, make sure to line up your storage slots with the library’s storage slots to avoid these edge cases
+- Authenticate and do conditional checks on functions that invoke delegatecalls.
+- Read solidity documentation on security considerations.
